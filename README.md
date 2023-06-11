@@ -1,6 +1,11 @@
 # Fresh & Go
 
-This project shows a demo for an online fruit juiceoreder business
+This project shows a demo for an online fruit juice order business
+
+## Demo
+
+https://github.com/preciousbata/FreshandGo/assets/42701343/19edcaaf-7b54-4bcc-8c69-221f49051844
+
 
 ## Packages
 
