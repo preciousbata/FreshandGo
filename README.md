@@ -38,7 +38,7 @@ dependencies:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/preciousbata/FreshandGo.git
    ```
 
 2. Change to the project directory:
